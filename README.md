@@ -1,6 +1,6 @@
 # is-finite
 
-Is finite component.
+Lo-Dash's `isFinite` function as a component.
 
 ## Installation
 
