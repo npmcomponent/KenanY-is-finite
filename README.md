@@ -4,6 +4,8 @@
 
 Lo-Dash's `isFinite` function as a component.
 
+[![browser support](https://ci.testling.com/KenanY/is-finite.png)](https://ci.testling.com/KenanY/is-finite)
+
 ## Installation
 
 ``` bash
