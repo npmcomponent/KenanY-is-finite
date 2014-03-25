@@ -2,21 +2,17 @@
   "name": "is-finite-component",
   "version": "1.0.0",
   "description": "Is finite component",
-  "homepage": "https://github.com/KenanY/is-finite",
-  "bugs": {
-    "url": "https://github.com/KenanY/is-finite/issues"
-  },
+  "repository": "KenanY/is-finite",
   "license": "MIT",
-  "author": {
-    "name": "Kenan Yildirim",
-    "email": "kenan@kenany.me",
-    "url": "http://kenany.me/"
-  },
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
   "directories": {
     "test": "test"
   },
-  "repository": "https://github.com/KenanY/is-finite.git",
   "scripts": {
     "test": "mocha -R spec --require should",
     "build": "component build --dev",
