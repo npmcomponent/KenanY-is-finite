@@ -13,6 +13,8 @@ var nativeIsNaN = global.isNaN;
  * @returns {boolean} Returns `true` if the `value` is finite, else `false`.
  * @api public
  */
-module.exports = function(value) {
+function isFinite(value) {
   return nativeIsFinite(value) && !nativeIsNaN(parseFloat(value));
 }
+
+module.exports = isFinite;
