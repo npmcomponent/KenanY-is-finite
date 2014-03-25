@@ -2,7 +2,7 @@
   "name": "is-finite",
   "repo": "KenanY/is-finite",
   "description": "Is finite component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [],
   "dependencies": {
     "component/global": "*"
