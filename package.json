@@ -25,7 +25,7 @@
   },
   "component": {
     "scripts": {
-      "is-integer/index.js": "index.js"
+      "is-finite/index.js": "index.js"
     }
   },
   "private": true
