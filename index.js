@@ -1,4 +1,4 @@
-var global = require('global');
+var global = require('component-global');
 
 var nativeIsFinite = global.isFinite;
 var nativeIsNaN = global.isNaN;
